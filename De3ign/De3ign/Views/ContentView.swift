@@ -13,6 +13,7 @@ struct ContentView: View {
     
     @Environment(\.openWindow) var openWindow
     @Environment(\.openImmersiveSpace) var openImmersiveSpace
+    @Environment(\.dismissImmersiveSpace) private var dismissImmersiveSpace
     @Environment(AppModel.self) var appModel
     
     @State var savedRealms: [SavedRealm] = []
@@ -32,74 +33,90 @@ struct ContentView: View {
                     .shadow(color: .red, radius: 50)
             }
             
-            // === Volumes ===
-            ScrollView(.horizontal, showsIndicators: true) {
-                HStack(spacing: 20) {
-                    ForEach(0 ..< appModel.spaces.count, id: \.self) { index in
-                        Button {
-                            self.appModel.selectedSpace = appModel.spaces[index]
-                            Task {
-                                await openImmersiveSpace(id: appModel.spaces[index].spaceId)
-                            }
-                        } label: {
-                            VStack {
-                                Text(appModel.spaces[index].id)
-                                    .font(.extraLargeTitle)
-                                    .frame(width: 300, height: 200)
-                                
-                                VStack(alignment: .leading) {
-                                    Text(appModel.spaces[index].name)
-                                        .font(.title)
-                                    
-                                    Text(appModel.spaces[index].description)
-                                        .font(.headline)
-                                    
+            if appModel.immersiveSpaceState == .closed {
+                // === Volumes ===
+                ScrollView(.horizontal, showsIndicators: true) {
+                    HStack(spacing: 20) {
+                        ForEach(0 ..< appModel.spaces.count, id: \.self) { index in
+                            Button {
+                                self.appModel.selectedSpace = appModel.spaces[index]
+                                Task {
+                                    await openImmersiveSpace(id: appModel.spaces[index].spaceId)
                                 }
-                                .padding(cardPadding)
-                                .frame(maxWidth: .infinity, alignment: .leading)
+                            } label: {
+                                VStack {
+                                    Text(appModel.spaces[index].id)
+                                        .font(.extraLargeTitle)
+                                        .frame(width: 300, height: 200)
+                                    
+                                    VStack(alignment: .leading) {
+                                        Text(appModel.spaces[index].name)
+                                            .font(.title)
+                                        
+                                        Text(appModel.spaces[index].description)
+                                            .font(.headline)
+                                    }
+                                    .padding(cardPadding)
+                                    .frame(maxWidth: .infinity, alignment: .leading)
+                                }
+                                .background(.ultraThinMaterial)
+                                .hoverEffect()
+                                .frame(width: 300)
+                                .clipShape(.rect(cornerRadius: 10.0))
                             }
-                            .background(.ultraThinMaterial)
-                            .hoverEffect()
-                            .frame(width: 300)
-                            .clipShape(.rect(cornerRadius: 10.0))
+                            .buttonStyle(.borderless)
                         }
-                        .buttonStyle(.borderless)
+                        
+                        //                    ForEach(self.savedRealms) { realm in
+                        //                        Button {
+                        //                            self.appModel.editorEntities.disableAll()
+                        //                            self.appModel.editorEntities.append(contentsOf: loadRealm(realm))
+                        //                            self.appModel.selectedSpace = appModel.spaces[0]
+                        //                            openWindow(id: appModel.spaces[0].volumeName)
+                        //                        } label: {
+                        //                            VStack {
+                        //                                Text(realm.name)
+                        //                                    .font(.extraLargeTitle)
+                        //                                    .frame(width: 300, height: 200)
+                        //
+                        //                                VStack(alignment: .leading) {
+                        //                                    Text(realm.name)
+                        //                                        .font(.title)
+                        //
+                        //                                    Text("user created space")
+                        //                                        .font(.headline)
+                        //                                }
+                        //                                .padding(cardPadding)
+                        //                                .frame(maxWidth: .infinity, alignment: .leading)
+                        //                            }
+                        //                            .background(.ultraThinMaterial)
+                        //                            .hoverEffect()
+                        //                            .frame(width: 300)
+                        //                            .clipShape(.rect(cornerRadius: 10.0))
+                        //                        }
+                        //                        .buttonStyle(.borderless)
+                        //                    }
                     }
-//                    ForEach(self.savedRealms) { realm in
-//                        Button {
-//                            self.appModel.editorEntities.disableAll()
-//                            self.appModel.editorEntities.append(contentsOf: loadRealm(realm))
-//                            self.appModel.selectedSpace = appModel.spaces[0]
-//                            openWindow(id: appModel.spaces[0].volumeName)
-//                        } label: {
-//                            VStack {
-//                                Text(realm.name)
-//                                    .font(.extraLargeTitle)
-//                                    .frame(width: 300, height: 200)
-//                                
-//                                VStack(alignment: .leading) {
-//                                    Text(realm.name)
-//                                        .font(.title)
-//                                    
-//                                    Text("user created space")
-//                                        .font(.headline)
-//                                }
-//                                .padding(cardPadding)
-//                                .frame(maxWidth: .infinity, alignment: .leading)
-//                            }
-//                            .background(.ultraThinMaterial)
-//                            .hoverEffect()
-//                            .frame(width: 300)
-//                            .clipShape(.rect(cornerRadius: 10.0))
-//                        }
-//                        .buttonStyle(.borderless)
-//                    }
                 }
+                .frame(height: 350)
+                .padding()
+                .glassBackgroundEffect()
             }
-            .frame(height: 350)
-            .padding()
-            .glassBackgroundEffect()
-            
+            else if appModel.immersiveSpaceState == .open {
+                Button {
+                    Task {
+                        await dismissImmersiveSpace()
+                    }
+                } label: {
+                    Text("Exit Realm")
+                        .font(.extraLargeTitle)
+                        .frame(width: 300, height: 300)
+                }
+                .background(.ultraThinMaterial)
+                .hoverEffect()
+                .clipShape(.rect(cornerRadius: 10.0))
+                .buttonStyle(.borderless)
+            }
         }
         .padding()
         .onAppear() {
