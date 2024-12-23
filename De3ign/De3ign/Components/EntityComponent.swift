@@ -23,18 +23,26 @@ struct EditorMetadataComponent: Component {
 class DragToMoveComponent: Component {
     let target: Entity
     let forceFactor: Float
-    let isUsingPhysics: Bool
+    var isUsingPhysics: Bool
+    var doAutoUnlock: Bool
     private var prevPosition: SIMD3<Float>?
     private var currentPosition: SIMD3<Float>?
     private var storedPhysicsBody: PhysicsBodyComponent?
 
-    init(target: Entity, forceFactor: Float = 1.0) {
+    init(target: Entity, forceFactor: Float = 1.0, autoUnlock doAutoUnlock: Bool = false) {
         self.target = target
         self.forceFactor = forceFactor
+        self.doAutoUnlock = doAutoUnlock
         isUsingPhysics = target.components[PhysicsBodyComponent.self] != nil
     }
 
     func handleChange(_ event: EntityTargetValue<DragGesture.Value>) {
+        // auto unlock
+        if doAutoUnlock {
+            target.unlockPhysics()
+            isUsingPhysics = true
+            doAutoUnlock = false
+        }
         // hard set position
         target.position = event.convert(event.location3D, from: .local, to: target.parent!)
         // record state if target has physics

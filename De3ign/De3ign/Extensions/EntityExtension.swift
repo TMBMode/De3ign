@@ -179,8 +179,8 @@ extension Entity {
     }
     
     @discardableResult
-    func draggable(_ outOfBoundChecker: ((SIMD3<Float>) -> Bool)? = nil) -> Entity {
-        let dragComponent = DragToMoveComponent(target: self)
+    func draggable(_ outOfBoundChecker: ((SIMD3<Float>) -> Bool)? = nil, autoUnlocking autoUnlock: Bool = false) -> Entity {
+        let dragComponent = DragToMoveComponent(target: self, autoUnlock: autoUnlock)
         self.components.set(dragComponent)
         if dragComponent.isUsingPhysics && outOfBoundChecker != nil {
             self.components.set(PositionGuardComponent(
@@ -222,6 +222,11 @@ extension Entity {
     func unfocus() {
         self.components.remove(InputTargetComponent.self)
         self.components.remove(HoverEffectComponent.self)
+    }
+    
+    func unlockPhysics() {
+        self.components[PhysicsBodyComponent.self]!.isTranslationLocked = (x: false, y: false, z: false)
+        self.components[PhysicsBodyComponent.self]!.isRotationLocked = (x: false, y: false, z: false)
     }
 }
 

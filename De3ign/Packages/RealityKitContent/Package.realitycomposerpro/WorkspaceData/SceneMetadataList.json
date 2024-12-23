@@ -10,50 +10,8 @@
         "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
         "Object_2",
         "RootNode",
-        "Jalousie_wide_fin6"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "pivoting_handle"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "casement_bridged_panelL"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "Animated_Window_Systems",
-        "Materials"
+        "sliding_vertical_lattice_windowB",
+        "sliding_vertical_lattice_windowB_frame3_0"
       ],
       {
         "isExpanded" : true,
@@ -62,11 +20,21 @@
       [
         "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
         "Root",
-        "Ceiling",
+        "Fence_Wood"
+      ],
+      {
+        "disallowsFraming" : false,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
         "ceiling_snow"
       ],
       {
-        "isExpanded" : true,
+        "disallowsFraming" : true,
+        "isExpanded" : false,
         "isLocked" : false
       },
       [
@@ -78,96 +46,11 @@
         "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
         "Object_2",
         "RootNode",
-        "sliding_vertical_lattice_windowB"
+        "fixed",
+        "fixed_glass_0"
       ],
       {
         "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "Jalousie_narrow_fin5"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "Jalousie_narrow_fin16"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "StaticFurniture",
-        "Old_Bed",
-        "Meshes",
-        "Sketchfab_model"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "SkyDome_1"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "sliding_horizontal_lattice_frame"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "Jalousie_wide_fin7"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
         "isLocked" : false
       },
       [
@@ -175,587 +58,6 @@
         "Root",
         "cabinet",
         "Materials"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "Walls"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "Jalousie_narrow_fin13"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "Jalousie_wide_frame"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "Modern_Light_Switches",
-        "SkinnedMeshes",
-        "Sketchfab_model",
-        "_572851d0f89418da7ff6d56e583ab61_fbx",
-        "Object_2"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "sliding_horizontal_4panels_frame"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "pivoting_frame"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "casement_bridged_frame"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "Macbook"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "pivoting_lattice_frame"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "photoframe",
-        "Materials",
-        "glass"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "fences"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "sliding_horizontal_4panels_windowL2"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "lighter_",
-        "Meshes",
-        "Sketchfab_model",
-        "Collada_visual_scene_group",
-        "g"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "Jalousie_narrow_fin1"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "StaticFurniture",
-        "Old_Bed",
-        "Meshes",
-        "invis"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "lighter_",
-        "Meshes"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "Jalousie_wide_fin4"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "Jalousie_narrow_fin10"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "photoframe",
-        "Meshes",
-        "Meshes",
-        "Sketchfab_model"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "Jalousie_narrow_fin8"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "casement_bridged_panelR"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "Jalousie_narrow_fincontrol"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "Animated_Window_Systems",
-        "Meshes"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "Timeline",
-        "Track"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "Jalousie_narrow_fin12"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "Pine_tree_1"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "pivoting_panel"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "Jalousie_wide_fincontrol"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "awning_lattice_frame"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "MovableItems"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "revolving_door"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "Jalousie_narrow_fin4"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "Jalousie_narrow_fin2"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "Jalousie_narrow_fin11"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "Animated_Window_Systems",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "sliding_vertical_lattice_windowB",
-        "sliding_vertical_lattice_windowB_glass_0"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "Animated_Window_Systems",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "Modern_Light_Switches",
-        "SkinnedMeshes",
-        "Sketchfab_model",
-        "_572851d0f89418da7ff6d56e583ab61_fbx",
-        "Object_2",
-        "RootNode",
-        "Object_4",
-        "_rootJoint",
-        "skin0"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "revolving_frame"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "sliding_horizontal_lattice_windowL"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "Animated_Window_Systems",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "Animated_Window_Systems",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "sliding_vertical_lattice_windowT"
       ],
       {
         "isExpanded" : true,
@@ -786,7 +88,275 @@
         "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
         "Object_2",
         "RootNode",
+        "casement_panelR"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "casement_bridged_frame"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "holding_frame"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "Animated_Window_Systems",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "sliding_vertical_lattice_windowB",
+        "sliding_vertical_lattice_windowB_glass_0"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "pivoting_frame"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "lighter_",
+        "Meshes",
+        "Sketchfab_model",
+        "Collada_visual_scene_group",
+        "g",
+        "defaultMaterial_1"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
         "Jalousie_narrow_fin6"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "pivoting_lattice_window"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "revolving_door"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "lighter_",
+        "Meshes",
+        "Sketchfab_model",
+        "Collada_visual_scene_group",
+        "g",
+        "defaultMaterial"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "casement_frame"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "Modern_Light_Switches",
+        "SkinnedMeshes",
+        "Sketchfab_model",
+        "_572851d0f89418da7ff6d56e583ab61_fbx"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "Jalousie_narrow_fin16"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "sliding_horizontal_4panels_windowL2"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "sliding_horizontal_frame"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "Interactable",
+        "safe_animated",
+        "collis",
+        "top"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "fences"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "lighter_",
+        "Meshes",
+        "Sketchfab_model",
+        "Collada_visual_scene_group"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "Macbook"
       ],
       {
         "disallowsFraming" : true,
@@ -813,96 +383,7 @@
         "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
         "Object_2",
         "RootNode",
-        "sliding_horizontal_windowR"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "SkyDome_1",
-        "Cube"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "sliding_vertical_frame"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "Modern_Light_Switches",
-        "SkinnedMeshes",
-        "Sketchfab_model",
-        "_572851d0f89418da7ff6d56e583ab61_fbx",
-        "Object_2",
-        "RootNode",
-        "Object_4"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "Jalousie_wide_fin1"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "Animated_Window_Systems",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "fixed",
-        "fixed_glass_0"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "sliding_horizontal_windowL"
+        "Jalousie_narrow_fin3"
       ],
       {
         "disallowsFraming" : true,
@@ -918,7 +399,7 @@
         "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
         "Object_2",
         "RootNode",
-        "Jalousie_wide_fin9"
+        "sliding_horizontal_4panels_windowR2"
       ],
       {
         "disallowsFraming" : true,
@@ -934,7 +415,7 @@
         "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
         "Object_2",
         "RootNode",
-        "Jalousie_narrow_frame"
+        "Jalousie_narrow_fin7"
       ],
       {
         "disallowsFraming" : true,
@@ -950,11 +431,11 @@
         "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
         "Object_2",
         "RootNode",
-        "sliding_vertical_lattice_windowB",
-        "sliding_vertical_lattice_windowB_frame3_0"
+        "pivoting_lattice_frame"
       ],
       {
-        "isExpanded" : true,
+        "disallowsFraming" : true,
+        "isExpanded" : false,
         "isLocked" : false
       },
       [
@@ -980,7 +461,7 @@
         "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
         "Object_2",
         "RootNode",
-        "sliding_horizontal_4panels_windowL1"
+        "sliding_horizontal_windowR"
       ],
       {
         "disallowsFraming" : true,
@@ -990,9 +471,26 @@
       [
         "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
         "Root",
-        "SkyDome_1",
-        "Cube",
-        "DefaultMaterial"
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "Jalousie_narrow_fin12"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "StaticFurniture",
+        "Old_Bed",
+        "Meshes",
+        "invis_1"
       ],
       {
         "isExpanded" : true,
@@ -1001,12 +499,153 @@
       [
         "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
         "Root",
-        "lighter_",
+        "window_animated",
         "Meshes",
         "Sketchfab_model",
-        "Collada_visual_scene_group",
-        "g",
-        "defaultMaterial"
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "Jalousie_narrow_fin5"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "fixed"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "sliding_vertical_lattice_windowB",
+        "sliding_vertical_lattice_windowB_glass_0"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "Jalousie_wide_fin4"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "Modern_Light_Switches",
+        "SkinnedMeshes",
+        "Sketchfab_model",
+        "_572851d0f89418da7ff6d56e583ab61_fbx",
+        "Object_2",
+        "RootNode"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "Animated_Window_Systems",
+        "Materials"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "MovableItems",
+        "iphone"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "Rock_1"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "Jalousie_narrow_fin4"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "cabinet",
+        "SkinnedMeshes"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "Animated_Window_Systems",
+        "Meshes",
+        "Sketchfab_model"
       ],
       {
         "isExpanded" : true,
@@ -1019,7 +658,54 @@
         "Meshes",
         "Sketchfab_model",
         "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2"
+        "Object_2",
+        "RootNode"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "Animated_Window_Systems",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "fixed"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "awning_lattice_frame"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "Animated_Window_Systems",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "sliding_vertical_lattice_frame"
       ],
       {
         "isExpanded" : true,
@@ -1050,17 +736,7 @@
         "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
         "Object_2",
         "RootNode",
-        "sliding_vertical_lattice_windowB",
-        "sliding_vertical_lattice_windowB_glass_0"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "Rock_1"
+        "revolving_frame"
       ],
       {
         "disallowsFraming" : true,
@@ -1070,50 +746,9 @@
       [
         "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
         "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "Jalousie_wide_fin2"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "Rock"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "sliding_horizontal_4panels_windowR2"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "paper",
-        "Materials"
+        "Interactable",
+        "dresser",
+        "invis_collis"
       ],
       {
         "isExpanded" : true,
@@ -1128,7 +763,7 @@
         "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
         "Object_2",
         "RootNode",
-        "Jalousie_narrow_fin7"
+        "sliding_horizontal_lattice_frame"
       ],
       {
         "disallowsFraming" : true,
@@ -1144,7 +779,7 @@
         "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
         "Object_2",
         "RootNode",
-        "Jalousie_narrow_fin17"
+        "awning_frame"
       ],
       {
         "disallowsFraming" : true,
@@ -1154,39 +789,7 @@
       [
         "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
         "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "sliding_horizontal_lattice_windowR"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "holding_panels"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "Ceiling"
+        "MovableItems"
       ],
       {
         "isExpanded" : true,
@@ -1201,206 +804,7 @@
         "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
         "Object_2",
         "RootNode",
-        "sliding_horizontal_frame"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "Modern_Light_Switches",
-        "SkinnedMeshes"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "awning_armature"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "floor"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "photoframe",
-        "Meshes",
-        "Meshes",
-        "Sketchfab_model",
-        "root"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "sliding_vertical_windowT"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "sliding_horizontal_4panels_windowR1"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "Pine_tree"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "Jalousie_narrow_fin3"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "pivoting_lattice_window"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "MovableItems",
-        "lighter"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "Floors"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "Animated_Window_Systems",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "sliding_vertical_lattice_windowB",
-        "sliding_vertical_lattice_windowB_frame3_0"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "Animated_Window_Systems",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "sliding_vertical_lattice_frame"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "Modern_Light_Switches",
-        "SkinnedMeshes",
-        "Sketchfab_model"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "Jalousie_narrow_finc9"
+        "sliding_horizontal_4panels_frame"
       ],
       {
         "disallowsFraming" : true,
@@ -1432,222 +836,6 @@
         "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
         "Object_2",
         "RootNode",
-        "fixed"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "holding_frame"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "casement_frame"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "lighter_",
-        "Meshes",
-        "Sketchfab_model",
-        "Collada_visual_scene_group",
-        "g",
-        "defaultMaterial_1"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "awning_frame"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "StaticFurniture",
-        "Old_Bed"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "StaticFurniture"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "awning_lattice_armature"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "Modern_Light_Switches",
-        "SkinnedMeshes",
-        "Sketchfab_model",
-        "_572851d0f89418da7ff6d56e583ab61_fbx"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "pivoting_lattice_panel"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "Jalousie_wide_fin3"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "Modern_Light_Switches",
-        "SkinnedMeshes",
-        "Sketchfab_model",
-        "_572851d0f89418da7ff6d56e583ab61_fbx",
-        "Object_2",
-        "RootNode"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "sliding_vertical_windowB"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "StaticFurniture",
-        "Old_Bed",
-        "Meshes",
-        "invis_1"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "Animated_Window_Systems",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
         "sliding_vertical_lattice_frame",
         "sliding_vertical_lattice_frame_frame1_0"
       ],
@@ -1658,98 +846,13 @@
       [
         "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
         "Root",
-        "Animated_Window_Systems",
-        "Meshes",
-        "Sketchfab_model"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "dresser",
-        "SkinnedMeshes",
-        "Sketchfab_model",
-        "ea1b8f8f6d7c4225ab4e678f6cf37aa9_fbx",
-        "Object_2",
-        "RootNode",
-        "Object_4",
-        "_rootJoint",
-        "skin0",
-        "skeleton"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "ceiling_snow"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "cabinet",
-        "SkinnedMeshes"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
         "window_animated",
         "Meshes",
         "Sketchfab_model",
         "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
         "Object_2",
         "RootNode",
-        "casement_panelR"
-      ],
-      {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "Ceiling",
-        "Material"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "Fence_Wood"
-      ],
-      {
-        "disallowsFraming" : false,
-        "isExpanded" : false,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
-        "Meshes",
-        "Sketchfab_model",
-        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "fixed"
+        "sliding_horizontal_lattice_windowL"
       ],
       {
         "disallowsFraming" : true,
@@ -1780,7 +883,7 @@
         "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
         "Object_2",
         "RootNode",
-        "Jalousie_wide_fin8"
+        "Jalousie_narrow_fin13"
       ],
       {
         "disallowsFraming" : true,
@@ -1790,7 +893,18 @@
       [
         "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
         "Root",
-        "Interactable"
+        "Pine_tree_1"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "paper",
+        "Materials"
       ],
       {
         "isExpanded" : true,
@@ -1799,40 +913,24 @@
       [
         "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
         "Root",
-        "StaticFurniture",
-        "Old_Bed",
-        "Meshes"
+        "Pine_tree"
       ],
       {
-        "isExpanded" : true,
+        "disallowsFraming" : true,
+        "isExpanded" : false,
         "isLocked" : false
       },
       [
         "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
         "Root",
-        "lighter_",
-        "Meshes",
-        "Sketchfab_model",
-        "Collada_visual_scene_group"
-      ],
-      {
-        "isExpanded" : true,
-        "isLocked" : false
-      },
-      [
-        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
-        "Root",
-        "window_animated",
+        "Animated_Window_Systems",
         "Meshes",
         "Sketchfab_model",
         "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
-        "Object_2",
-        "RootNode",
-        "Jalousie_wide_fin5"
+        "Object_2"
       ],
       {
-        "disallowsFraming" : true,
-        "isExpanded" : false,
+        "isExpanded" : true,
         "isLocked" : false
       },
       [
@@ -1860,7 +958,200 @@
         "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
         "Object_2",
         "RootNode",
-        "Jalousie_narrow_fin14"
+        "Jalousie_wide_fin1"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "Modern_Light_Switches",
+        "SkinnedMeshes",
+        "Sketchfab_model",
+        "_572851d0f89418da7ff6d56e583ab61_fbx",
+        "Object_2"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "lighter_",
+        "Meshes",
+        "Sketchfab_model",
+        "Collada_visual_scene_group",
+        "g"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "Jalousie_narrow_fin17"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "Interactable",
+        "dresser",
+        "SkinnedMeshes",
+        "Sketchfab_model",
+        "ea1b8f8f6d7c4225ab4e678f6cf37aa9_fbx",
+        "Object_2",
+        "RootNode",
+        "Object_4",
+        "_rootJoint",
+        "skin0",
+        "Object092_Fasad_0"
+      ],
+      {
+        "disallowsFraming" : false,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "Jalousie_narrow_fin11"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "Jalousie_narrow_fin8"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "Jalousie_narrow_fin2"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "Interactable",
+        "dresser",
+        "SkinnedMeshes",
+        "Sketchfab_model",
+        "ea1b8f8f6d7c4225ab4e678f6cf37aa9_fbx",
+        "Object_2",
+        "RootNode",
+        "Object_4",
+        "_rootJoint",
+        "skin0",
+        "skeleton"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "sliding_horizontal_4panels_windowL1"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "Jalousie_narrow_fin1"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "sliding_horizontal_lattice_windowR"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "sliding_horizontal_windowL"
       ],
       {
         "disallowsFraming" : true,
@@ -1880,6 +1171,205 @@
       [
         "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
         "Root",
+        "Animated_Window_Systems",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "sliding_vertical_lattice_windowT"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "Jalousie_narrow_fin10"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "Modern_Light_Switches",
+        "SkinnedMeshes",
+        "Sketchfab_model",
+        "_572851d0f89418da7ff6d56e583ab61_fbx",
+        "Object_2",
+        "RootNode",
+        "Object_4"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "Rock"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "Modern_Light_Switches",
+        "SkinnedMeshes"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "sliding_horizontal_4panels_windowR1"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "Timeline",
+        "Track"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "Jalousie_narrow_finc9"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "Jalousie_narrow_frame"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "casement_bridged_panelR"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "Jalousie_wide_fincontrol"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "StaticFurniture",
+        "Old_Bed",
+        "Meshes",
+        "invis"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "Animated_Window_Systems",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "sliding_vertical_lattice_windowB"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "Jalousie_narrow_fin14"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
         "window_animated",
         "Meshes",
         "Sketchfab_model",
@@ -1887,6 +1377,480 @@
         "Object_2",
         "RootNode",
         "Jalousie_narrow_fin18"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "awning_lattice_armature"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "floor"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "Modern_Light_Switches",
+        "SkinnedMeshes",
+        "Sketchfab_model"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "Animated_Window_Systems",
+        "Meshes"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "Modern_Light_Switches",
+        "SkinnedMeshes",
+        "Sketchfab_model",
+        "_572851d0f89418da7ff6d56e583ab61_fbx",
+        "Object_2",
+        "RootNode",
+        "Object_4",
+        "_rootJoint",
+        "skin0"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "pivoting_handle"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "SkyDome_1"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "Jalousie_wide_fin5"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "photoframe",
+        "Materials",
+        "glass"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "pivoting_panel"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "sliding_vertical_windowB"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "Jalousie_wide_fin2"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "SkyDome_1",
+        "Cube",
+        "DefaultMaterial"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "dresser",
+        "SkinnedMeshes",
+        "Sketchfab_model",
+        "ea1b8f8f6d7c4225ab4e678f6cf37aa9_fbx",
+        "Object_2",
+        "RootNode",
+        "Object_4",
+        "_rootJoint",
+        "skin0",
+        "skeleton"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "awning_armature"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "Jalousie_wide_fin3"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "lighter_",
+        "Meshes"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "Animated_Window_Systems",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "sliding_vertical_frame"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "holding_panels"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "pivoting_lattice_panel"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "photoframe",
+        "Meshes",
+        "Meshes",
+        "Sketchfab_model",
+        "root"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "casement_bridged_panelL"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "Jalousie_wide_fin9"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "sliding_vertical_windowT"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "Ceiling",
+        "Material"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "Jalousie_narrow_fincontrol"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "Animated_Window_Systems",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "sliding_vertical_lattice_windowB",
+        "sliding_vertical_lattice_windowB_frame3_0"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "Jalousie_wide_fin7"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "photoframe",
+        "Meshes",
+        "Meshes",
+        "Sketchfab_model"
+      ],
+      {
+        "isExpanded" : true,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "Jalousie_wide_fin6"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "Jalousie_wide_frame"
+      ],
+      {
+        "disallowsFraming" : true,
+        "isExpanded" : false,
+        "isLocked" : false
+      },
+      [
+        "BD5A1786-3368-4FBD-B73C-7180B58F78D9",
+        "Root",
+        "window_animated",
+        "Meshes",
+        "Sketchfab_model",
+        "c6e3e68a8e60493d934f2d46f3ca3045_fbx",
+        "Object_2",
+        "RootNode",
+        "Jalousie_wide_fin8"
       ],
       {
         "disallowsFraming" : true,

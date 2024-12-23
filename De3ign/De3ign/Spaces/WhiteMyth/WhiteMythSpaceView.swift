@@ -82,6 +82,8 @@ struct WhiteMythSpaceView: View {
             let doorkeyEntity = sceneEntity.findChildAndSetMetadata(named: "doorkey")
             let doorLockAnchorEntity = sceneEntity.findChildAndSetMetadata(named: "anchor_doorlock")
             let doorEntity = sceneEntity.findChildAndSetMetadata(named: "door_animated")
+            let cockroachEntity = sceneEntity.findChildAndSetMetadata(named: "cockroach")
+            let iphoneEntity = sceneEntity.findChildAndSetMetadata(named: "iphone")
             
             // place attachment
             safeAttachment = attachments.entity(for: "safe_keypad")!
@@ -160,7 +162,6 @@ struct WhiteMythSpaceView: View {
                         lighterEntity.playAllAudios()
                         candleFireEntity.particleBurst()
                         try! await Task.sleep(nanoseconds: 0_600_000_000)
-                        lighterEntity.isEnabled = false
                         candleFireEntity.isEnabled = true
                         candleFireEntity.playAllAudios(loop: true)
                     }
@@ -178,6 +179,10 @@ struct WhiteMythSpaceView: View {
                     paperEntity.components.remove(InteractOnDistanceComponent.self)
                 }
             
+            let dresserCollisionClosed = dresserEntity.findEntity(named: "collis_closed")!
+            dresserCollisionClosed.isEnabled = true
+            let dresserCollisionOpen = dresserEntity.findEntity(named: "collis_open")!
+            dresserCollisionOpen.isEnabled = false
             dresserKeyEntity.draggable(outOfBoundChecker)
                 .whenDistance(to: dresserLockEntity, within: 0.4) {
                     Task {
@@ -185,40 +190,44 @@ struct WhiteMythSpaceView: View {
                         await dresserKeyEntity.magneticMove(to: dresserLockEntity, duration: 2)
                         dresserLockEntity.playAllAudios()
                         dresserKeyEntity.isEnabled = false
-                        dresserEntity.playAllAnimations()
-                        try! await Task.sleep(nanoseconds: 1_300_000_000)
-                        dresserEntity.pauseAllAnimations()
+                        dresserEntity.playAnimationWithName("open")
+                        try! await Task.sleep(nanoseconds: 1_500_000_000)
+                        dresserLockEntity.isEnabled = false
                         dresserEntity.unfocus()
+                        dresserCollisionClosed.isEnabled = false
+                        dresserCollisionOpen.isEnabled = true
                     }
                 }
             
             // hidden COCKROOOOOOAAACH
-            let cockroachEntity = sceneEntity.findChildAndSetMetadata(named: "cockroach")
-            let iphoneEntity = sceneEntity.findChildAndSetMetadata(named: "iphone")
-            iphoneEntity.draggable().whenDistance(to: cockroachEntity, within: 0.3) {
-                cockroachEntity.playAllAnimations(loop: true)
-                Task {
-                    while true {
-                        cockroachEntity.transform.rotation *= simd_quatf(angle: 0.03, axis: [0, 1, 0])
-                        try! await Task.sleep(nanoseconds: 0_050_000_000)
+            iphoneEntity.draggable(outOfBoundChecker, autoUnlocking: true)
+                .whenDistance(to: cockroachEntity, within: 0.3) {
+                    cockroachEntity.unlockPhysics()
+                    cockroachEntity.draggable(outOfBoundChecker)
+                    cockroachEntity.playAllAnimations(loop: true)
+                    Task {
+                        while true {
+                            cockroachEntity.transform.rotation *= simd_quatf(angle: 0.03, axis: [0, 1, 0])
+                            try! await Task.sleep(nanoseconds: 0_050_000_000)
+                        }
                     }
                 }
-            }
             
-            batteryEntity.draggable().whenDistance(to: snowGlobeEntity, within: 0.3) {
-                Task {
-                    batteryEntity.components.remove(DragToMoveComponent.self)
-                    await batteryEntity.magneticMove(to: snowGlobeEntity, duration: 3)
-                    batteryEntity.isEnabled = false
-                    snowGlobeEntity.findParticleEmittingEntity()!.isEnabled = true
-                    ceilingEntity.isEnabled = false
-                    ceilingSnowEntity.isEnabled = true
+            batteryEntity.draggable(outOfBoundChecker)
+                .whenDistance(to: snowGlobeEntity, within: 0.3) {
+                    Task {
+                        batteryEntity.components.remove(DragToMoveComponent.self)
+                        await batteryEntity.magneticMove(to: snowGlobeEntity, duration: 3)
+                        batteryEntity.isEnabled = false
+                        snowGlobeEntity.findParticleEmittingEntity()!.isEnabled = true
+                        ceilingEntity.isEnabled = false
+                        ceilingSnowEntity.isEnabled = true
                     
-                    backgroundMusic?.stop()
-                    backgroundMusic = Song(name: "whitemyth_alt").volume(0.4).loop().play()
-                    photoFrameAltImageEntity.isEnabled = true
+                        backgroundMusic?.stop()
+                        backgroundMusic = Song(name: "whitemyth_alt").volume(0.4).loop().play()
+                        photoFrameAltImageEntity.isEnabled = true
+                    }
                 }
-            }
             
             hammerEntity.draggable(outOfBoundChecker)
                 .whenCollided(with: breakableFloorEntity, content: content, withSoundEffect: "thump") {
@@ -227,20 +236,20 @@ struct WhiteMythSpaceView: View {
                         breakableFloorEntity.playAudioWithName("crack")
                         try! await Task.sleep(nanoseconds: 0_500_000_000)
                         breakableFloorEntity.isEnabled = false
-                        hammerEntity.isEnabled = false
                     }
                 }
             
             safeEntity.whenTapped {
-                safeAttachment.isEnabled = true
+                safeAttachment.isEnabled.toggle()
             }
             
-            doorkeyEntity.draggable().whenDistance(to: doorLockAnchorEntity, within: 0.3) {
-                doorkeyEntity.isEnabled = false
-                doorLockAnchorEntity.playAllAudios()
-                doorEntity.playAnimationWithName("open")
-                print("escape success!")
-            }
+            doorkeyEntity.draggable(outOfBoundChecker)
+                .whenDistance(to: doorLockAnchorEntity, within: 0.3) {
+                    doorkeyEntity.isEnabled = false
+                    doorLockAnchorEntity.playAllAudios()
+                    doorEntity.playAnimationWithName("open")
+                    print("escape success!")
+                }
             
         } attachments: {
             Attachment(id: "safe_keypad") {
